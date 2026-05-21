@@ -1,1 +1,5 @@
-# package.json
+{
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
